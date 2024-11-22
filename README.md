@@ -1,4 +1,4 @@
-# 💻 Lucas Garcez - Full Stack Developer 🌐
+# Lucas Garcez - Full Stack Developer 🌐
 
 Welcome to my GitHub! Here you will find projects that reflect my passion for development, constant learning, and creative solutions to technological challenges.
 
