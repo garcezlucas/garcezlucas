@@ -1,16 +1,81 @@
-## Hi there 👋
+# 💻 Lucas Garcez - Desenvolvedor Full Stack 🌐
 
-<!--
-**garcezlucas/garcezlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://your-banner-link.com/banner.png)
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento, aprendizado constante e soluções criativas para desafios tecnológicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre Mim
+
+- **👨‍💻 Desenvolvedor Full Stack**
+- **📍 Localização**: Brasil
+- **🎯 Objetivo**: Criar soluções de software eficientes e escaláveis, utilizando boas práticas e tecnologias modernas.
+
+---
+
+## 🔧 Tecnologias que utilizo
+
+### Frontend:
+
+- **🖥️ Linguagens:** JavaScript, TypeScript
+- **⚛️ Frameworks/Bibliotecas:** React.js, Next.js, Redux, Material-UI, TailwindCSS
+- **🧪 Testes:** Jest, Cypress
+
+### Backend:
+
+- **💻 Linguagens:** Node.js, Java
+- **⚛️ Frameworks:** Nest.js, Express.js, Spring Boot
+- **🗃️ Banco de Dados:** MongoDB, PostgreSQL
+
+### DevOps:
+
+- **⚙️ Ferramentas:** Docker, AWS, GitHub Actions, Bitbucket Pipelines
+- **📦 Gerenciamento de pacotes:** Yarn, npm
+
+### Outros:
+
+- **🔄 Controle de Versão:** Git (GitHub/Bitbucket)
+- **📋 Metodologias:** Scrum, Kanban
+
+<br />
+
+<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
+    <img src="https://nestjs.com/img/logo-small.svg" alt="Nest.js" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 10px;"/>
+          
+</p>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<br/>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garcezlucas&layout=compact&theme=dracula"/>  
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=garcezlucas&show_icons=true&theme=dracula&count_private=true"/>  
+    <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=garcezlucas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+</div>
+
+<br/>
+
+---
+
+
+
+![Snake animation](https://github.com/garcezlucas/garcezlucas/blob/output/github-contribution-grid-snake.svg)
+
+
