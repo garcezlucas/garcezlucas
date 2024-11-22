@@ -4,14 +4,6 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha p
 
 ---
 
-## 🚀 Sobre Mim
-
-- **👨‍💻 Desenvolvedor Full Stack**
-- **📍 Localização**: Brasil
-- **🎯 Objetivo**: Criar soluções de software eficientes e escaláveis, utilizando boas práticas e tecnologias modernas.
-
----
-
 ## 🔧 Tecnologias que utilizo
 
 ### Frontend:
