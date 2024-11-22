@@ -30,7 +30,7 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha p
 
 <br />
 
-<p style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; justify-content: center;">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;" />
