@@ -1,36 +1,29 @@
-# 💻 Lucas Garcez - Desenvolvedor Full Stack 🌐
+# 💻 Lucas Garcez - Full Stack Developer 🌐
 
-Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento, aprendizado constante e soluções criativas para desafios tecnológicos.
+Welcome to my GitHub! Here you will find projects that reflect my passion for development, constant learning, and creative solutions to technological challenges.
 
----
 
-## 🔧 Tecnologias que utilizo
+## 🔧 Technologies
 
-### Frontend:
+<div align="center">
+    
+| **Frontend** | **Backend** |
+|--------------|-------------|
+| 🖥️ **Linguagens:** JavaScript, TypeScript | 💻 **Linguagens:** Node.js, Java |
+| ⚛️ **Frameworks/Libraries:** React.js, Next.js, Redux, Material-UI, TailwindCSS | ⚛️ **Frameworks:** Nest.js, Express.js, Spring Boot |
+| 🧪 **Testes:** Jest, Cypress | 🧪 **Testes:** Jest, JUnit |
+|              | 🗃️ **Bancos de Dados:** MongoDB, PostgreSQL |
 
-- **🖥️ Linguagens:** JavaScript, TypeScript
-- **⚛️ Frameworks/Bibliotecas:** React.js, Next.js, Redux, Material-UI, TailwindCSS
-- **🧪 Testes:** Jest, Cypress
+| **DevOps**   | **Outros** |
+|--------------|------------|
+| ⚙️ **Ferramentas:** Docker, AWS, GitHub Actions, Bitbucket Pipelines | 🔄 **Controle de versão:** Git (GitHub/Bitbucket) |
+| 📦 **Gerenciamento de pacotes:** Yarn, npm | 📋 **Metodologias:** Scrum, Kanban |
 
-### Backend:
-
-- **💻 Linguagens:** Node.js, Java
-- **⚛️ Frameworks:** Nest.js, Express.js, Spring Boot
-- **🗃️ Banco de Dados:** MongoDB, PostgreSQL
-
-### DevOps:
-
-- **⚙️ Ferramentas:** Docker, AWS, GitHub Actions, Bitbucket Pipelines
-- **📦 Gerenciamento de pacotes:** Yarn, npm
-
-### Outros:
-
-- **🔄 Controle de Versão:** Git (GitHub/Bitbucket)
-- **📋 Metodologias:** Scrum, Kanban
+</div>
 
 <br />
 
-<p display= "flex" align="center" gap="20px">
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"  />
@@ -47,10 +40,6 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />
           
 </p>
-
----
-
-## 📈 Estatísticas do GitHub
 
 <br/>
 
