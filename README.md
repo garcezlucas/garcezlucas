@@ -1,9 +1,12 @@
 # Lucas Garcez - Full Stack Developer 🌐
 
-Welcome to my GitHub! Here you will find projects that reflect my passion for development, constant learning, and creative solutions to technological challenges.
+### Welcome to my GitHub! 
 
+This repository features a collection of projects that demonstrate my passion for full-stack development. I enjoy tackling technical challenges and building efficient, scalable solutions with modern tools and frameworks.
 
-## 🔧 Technologies
+Feel free to explore my work, and reach out if you'd like to discuss ideas or collaborate on future projects.
+
+---
 
 <div align="center">
     
@@ -14,7 +17,7 @@ Welcome to my GitHub! Here you will find projects that reflect my passion for de
 | 🧪 **Testes:** Jest, Cypress | 🧪 **Testes:** Jest, JUnit |
 |              | 🗃️ **Bancos de Dados:** MongoDB, PostgreSQL |
 
-| **DevOps**   | **Outros** |
+| **DevOps**   | **Others** |
 |--------------|------------|
 | ⚙️ **Ferramentas:** Docker, AWS, GitHub Actions, Bitbucket Pipelines | 🔄 **Controle de versão:** Git (GitHub/Bitbucket) |
 | 📦 **Gerenciamento de pacotes:** Yarn, npm | 📋 **Metodologias:** Scrum, Kanban |
