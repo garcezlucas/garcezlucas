@@ -1,7 +1,5 @@
 # 💻 Lucas Garcez - Desenvolvedor Full Stack 🌐
 
-![Banner](https://your-banner-link.com/banner.png)
-
 Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha paixão por desenvolvimento, aprendizado constante e soluções criativas para desafios tecnológicos.
 
 ---
