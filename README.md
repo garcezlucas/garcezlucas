@@ -58,8 +58,8 @@ Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos que refletem minha p
     <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garcezlucas&layout=compact&theme=dracula"/>  
     <br/>
     <br/>
-    <img  height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=garcezlucas&show_icons=true&theme=dracula&count_private=true"/>  
-    <img  height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com?user=garcezlucas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=garcezlucas&show_icons=true&theme=dracula&count_private=true"/>  
+    <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=garcezlucas&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 <br/>
