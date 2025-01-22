@@ -13,7 +13,7 @@ Feel free to explore my work, and reach out if you'd like to discuss ideas or co
 | **Frontend** | **Backend** |
 |--------------|-------------|
 | 🖥️ **Linguagens:** JavaScript, TypeScript | 💻 **Linguagens:** Node.js, Java |
-| ⚛️ **Frameworks/Libraries:** React.js, Next.js, Redux, Material-UI, TailwindCSS | ⚛️ **Frameworks:** Nest.js, Express.js, Spring Boot |
+| ⚛️ **Frameworks/Libraries:** React.js, React Native, Next.js, Redux, Material-UI, TailwindCSS | ⚛️ **Frameworks:** Nest.js, Express.js, Spring Boot |
 | 🧪 **Testes:** Jest, Cypress | 🧪 **Testes:** Jest, JUnit |
 |              | 🗃️ **Bancos de Dados:** MongoDB, PostgreSQL |
 
